@@ -1,6 +1,11 @@
 # Timepass
 Angular Application created for timepass
 
+# Steps to get up and running
+1. Clone the repository
+2. Run `npm install` to install all the dependencies
+3. Run `ng serve` to run the application
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.5.
 
 ## Development server
